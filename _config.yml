@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Meta Makers Cooperative
 description: Explore. Collaborate. Make.
+
+markdown: kramdown
