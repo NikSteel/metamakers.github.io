@@ -55,7 +55,6 @@ Through our partnership with the Accelerator, we also offer:
 
 ## How to help?
 As a non-profit cooperative, we operate on a 100% volunteer basis and appreciate all contributions. 
-See our website for a current list of items that we need.
 A business can help with the following:
 
 -	Funding
@@ -78,7 +77,7 @@ Please contact us to discuss your generous donation.
 We will achieve our aims through a variety of functions including: 
 
 -	STEM youth programs
--	Retirement activities
+-	Retiree Outreach
 -	Community arts events
 -	Technology labs
 -	CAD skills training
