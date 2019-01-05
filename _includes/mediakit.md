@@ -45,13 +45,13 @@ M2C is seeking 2000 square feet of workshop space to cater to the following inte
 
 We also hope to offer the following in the near future:
 -	24/7 access for members
--	shop floor live video feed
+
 -	research and relax lounge area
 
-Through our partnership with the Accelerator, we also offer:
--	conference rooms for meetings/classes 
+
+ 
 -	high speed internet
--	podcasting studio
+
 
 ## How to help?
 As a non-profit cooperative, we operate on a 100% volunteer basis and appreciate all contributions. 
