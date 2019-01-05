@@ -26,8 +26,8 @@ Shawn Wilson is an open source evangelist with 30 years of experience in practic
 Roberto has over 20 years experience in the field of Industrial Automation and is a licensed electrician. He is a long-time electronics hobbyist with an interest in all facets of the hobby but particularly microcontrollers. He has contributed to several electronics periodicals over the years including the submission of an open source version of the popular Arduino Uno geared specifically to bread boarding. Other interests include woodworking using primarily hand tools, 3D printing, and mechanical & electronic CAD design. He is a licensed amateur radio operator and a past volunteer instructor of the basic and advanced licensing courses.
 
 ## FACILITY FACT SHEET 
-M2C has partnered with the Downtown Windsor Business Accelerator to make our home in their new 65,000 square foot designated heritage building (the former Purity Dairy, est. 1929). 
-We have 1100 square feet of workshop space and cater to the following interests:
+
+M2C is seeking 2000 square feet of workshop space to cater to the following interests:
 - Metalworking
 -	Woodworking
 -	Fibre arts
