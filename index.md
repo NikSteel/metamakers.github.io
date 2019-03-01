@@ -1,3 +1,3 @@
-{% include form.html %}
-
 {% include mediakit.md %}
+
+{% include form.html %}
