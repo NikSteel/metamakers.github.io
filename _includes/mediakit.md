@@ -42,15 +42,7 @@ M2C is seeking 2000 square feet of workshop space to cater to the following inte
 -	Painting
 -	Computer Aided Design (CAD)
 -	Computer Aided Manufacturing (CAM/CNC)
-
-We also hope to offer the following in the near future:
--	24/7 access for members
-
--	research and relax lounge area
-
-
- 
--	high speed internet
+- Podcast Studio
 
 
 ## How to help?
