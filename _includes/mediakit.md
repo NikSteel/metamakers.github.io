@@ -1,3 +1,5 @@
+[zoom](https://us04web.zoom.us/j/75033505731?pwd=L3BGV2d6cmJQTFNnZUtOUFpGRUFuUT09)
+
 ## Introduction
 Meta Makers Cooperative (M2C) is a non-profit makers space in Windsor. Our mission is to provide access to tools and resources to maximize human potential, enabling our members to be autonomous, achieve self mastery and fulfill a sense of purpose. We also believe that science, technology, engineering, arts, and math are an integral part of the making process and when people make, they become empowered. 
 We are a social enterprise with a diverse array of skilled members who make Makers.
